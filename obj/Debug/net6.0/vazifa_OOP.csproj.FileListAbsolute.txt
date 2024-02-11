@@ -1,0 +1,15 @@
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\bin\Debug\net6.0\vazifa_OOP.exe
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\bin\Debug\net6.0\vazifa_OOP.deps.json
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\bin\Debug\net6.0\vazifa_OOP.runtimeconfig.json
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\bin\Debug\net6.0\vazifa_OOP.dll
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\bin\Debug\net6.0\vazifa_OOP.pdb
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\obj\Debug\net6.0\vazifa_OOP.csproj.AssemblyReference.cache
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\obj\Debug\net6.0\vazifa_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\obj\Debug\net6.0\vazifa_OOP.AssemblyInfoInputs.cache
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\obj\Debug\net6.0\vazifa_OOP.AssemblyInfo.cs
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\obj\Debug\net6.0\vazifa_OOP.csproj.CoreCompileInputs.cache
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\obj\Debug\net6.0\vazifa_OOP.dll
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\obj\Debug\net6.0\refint\vazifa_OOP.dll
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\obj\Debug\net6.0\vazifa_OOP.pdb
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\obj\Debug\net6.0\vazifa_OOP.genruntimeconfig.cache
+C:\Users\madir\OneDrive\Ishchi stol\Mohirdev\vazifa_OOP\obj\Debug\net6.0\ref\vazifa_OOP.dll
